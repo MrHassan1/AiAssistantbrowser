@@ -77,7 +77,7 @@ The server will start on `http://localhost:5000`.
 
 ## Architecture
 
-![System Architecture]([docs/images/architecture_diagram.png](https://github.com/MrHassan1/AiAssistantbrowser/blob/main/architecture_diagram.png))
+![System Architecture](https://github.com/MrHassan1/AiAssistantbrowser/blob/main/architecture_diagram.png)
 
 ## Workflow
 
@@ -98,6 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Facebook: [Facebook.com/waatmani](https://facebook.com/waatmani)
 - Instagram: [Instagram.com/waatmanii](https://instagram.com/waatmanii)
+
 
 
 
