@@ -74,6 +74,20 @@ The server will start on `http://localhost:5000`.
 - **Quota Errors (429)**: If the agent stops working, check your API quota limits on the provider's website.
 - **Server Errors**: Ensure the server is running and the `.env` file is correctly configured.
 
+
+## Architecture
+
+![System Architecture](docs/images/architecture_diagram.png)
+
+## Workflow
+
+![User Workflow](docs/images/workflow_diagram.png)
+
+## Credits
+
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -84,4 +98,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Facebook: [Facebook.com/waatmani](https://facebook.com/waatmani)
 - Instagram: [Instagram.com/waatmanii](https://instagram.com/waatmanii)
+
 
