@@ -80,7 +80,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-**Developed by Waatmani**
+** by Waatmani**
 
 - Facebook: [Facebook.com/waatmani](https://facebook.com/waatmani)
 - Instagram: [Instagram.com/waatmanii](https://instagram.com/waatmanii)
+
